@@ -1,0 +1,7 @@
+C:\Users\vadma\Desktop\удалить\blank-dotnet-app\aspnetcoreapp\bin\Release\net8.0\win-x64\publish\aspnetcoreapp.exe
+C:\Users\vadma\Desktop\удалить\blank-dotnet-app\aspnetcoreapp\bin\Release\net8.0\win-x64\publish\appsettings.Development.json
+C:\Users\vadma\Desktop\удалить\blank-dotnet-app\aspnetcoreapp\bin\Release\net8.0\win-x64\publish\appsettings.json
+C:\Users\vadma\Desktop\удалить\blank-dotnet-app\aspnetcoreapp\bin\Release\net8.0\win-x64\publish\aspnetcoreapp.dll
+C:\Users\vadma\Desktop\удалить\blank-dotnet-app\aspnetcoreapp\bin\Release\net8.0\win-x64\publish\aspnetcoreapp.deps.json
+C:\Users\vadma\Desktop\удалить\blank-dotnet-app\aspnetcoreapp\bin\Release\net8.0\win-x64\publish\aspnetcoreapp.runtimeconfig.json
+C:\Users\vadma\Desktop\удалить\blank-dotnet-app\aspnetcoreapp\bin\Release\net8.0\win-x64\publish\aspnetcoreapp.pdb
